@@ -14,22 +14,16 @@
 
 ## 🚀 About Me
 
-```python
-class AnchalpreetSingh:
-    def __init__(self):
-        self.name = "Anchalpreet Singh Bhatia"
-        self.role = "AI & Data Science Student"
-        self.location = "Ludhiana, Punjab, India"
-        self.education = "B.Tech CSE (AI & DS)"
-        self.interests = ["Machine Learning", "Deep Learning", "Data Science", "Singing"]
-        self.current_project = "Fake News Detection System"
-        self.future_goal = "Data Scientist"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together!")
+```yaml
+👤 Name: Anchalpreet Singh Bhatia
+💼 Role: AI & Data Science Student
+📍 Location: Ludhiana, Punjab, India
+🎓 Education: B.Tech CSE (AI & DS)
+🎯 Interests: Machine Learning | Deep Learning | Data Science | Singing 🎤
+🚀 Current Project: Fake News Detection System
+🌟 Future Goal: Data Scientist
 
-me = AnchalpreetSingh()
-me.say_hi()
+💬 Output: "Thanks for visiting! Let's connect and build something amazing together!"
 ```
 
 <div align="center">
